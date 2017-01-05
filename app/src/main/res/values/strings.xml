@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewPagination</string>
+    <string name="item_name">This is item :</string>
+</resources>
